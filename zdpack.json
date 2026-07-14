@@ -1,0 +1,5 @@
+{
+    "python": {
+        "entry": "Backend/app.py"
+    }
+}
